@@ -1,0 +1,194 @@
+rank,country_or_territory,hdi_value,annual_growth_2010_2023_percent
+1,Iceland,0.972,0.28
+2,Norway,0.970,0.25
+2,Switzerland,0.970,0.24
+4,Denmark,0.962,0.35
+5,Germany,0.959,0.19
+5,Sweden,0.959,0.38
+7,Australia,0.958,0.20
+8,Netherlands,0.955,0.26
+8,Hong Kong,0.955,0.38
+10,Belgium,0.951,0.26
+11,Ireland,0.949,0.38
+12,Finland,0.948,0.27
+13,Singapore,0.946,0.25
+13,United Kingdom,0.946,0.24
+15,United Arab Emirates,0.940,1.04
+16,Canada,0.939,0.22
+17,Liechtenstein,0.938,0.23
+17,New Zealand,0.938,0.13
+17,United States,0.938,0.10
+20,South Korea,0.937,0.36
+21,Slovenia,0.931,0.33
+22,Austria,0.930,0.21
+23,Japan,0.925,0.16
+24,Malta,0.924,0.50
+25,Luxembourg,0.922,0.14
+26,France,0.920,0.28
+27,Israel,0.919,0.26
+28,Spain,0.918,0.40
+29,Czech Republic,0.915,0.22
+29,Italy,0.915,0.30
+29,San Marino,0.915,-0.32
+32,Andorra,0.913,0.20
+32,Cyprus,0.913,0.45
+34,Greece,0.908,0.18
+35,Poland,0.906,0.35
+36,Estonia,0.905,0.33
+37,Saudi Arabia,0.900,0.70
+38,Bahrain,0.899,0.80
+39,Lithuania,0.895,0.32
+40,Portugal,0.890,0.42
+41,Croatia,0.889,0.53
+41,Latvia,0.889,0.51
+43,Qatar,0.886,0.45
+44,Slovakia,0.880,0.14
+45,Chile,0.878,0.47
+46,Hungary,0.870,0.22
+47,Argentina,0.865,0.15
+48,Montenegro,0.862,0.38
+48,Uruguay,0.862,0.47
+50,Oman,0.858,0.22
+51,Turkey,0.853,1.10
+52,Kuwait,0.852,0.36
+53,Antigua and Barbuda,0.851,0.18
+54,Seychelles,0.848,0.30
+55,Bulgaria,0.845,0.09
+55,Romania,0.845,0.14
+57,Georgia,0.844,0.54
+58,Saint Kitts and Nevis,0.840,0.49
+59,Panama,0.839,0.47
+60,Brunei,0.837,0.13
+60,Kazakhstan,0.837,0.38
+62,Costa Rica,0.833,0.39
+62,Serbia,0.833,0.39
+64,Russia,0.832,0.25
+65,Belarus,0.824,0.12
+66,Bahamas,0.820,0.21
+67,Malaysia,0.819,0.41
+68,North Macedonia,0.815,0.21
+69,Barbados,0.811,0.18
+69,Armenia,0.811,0.52
+71,Albania,0.810,0.25
+72,Trinidad and Tobago,0.807,0.30
+73,Mauritius,0.806,0.44
+74,Bosnia and Herzegovina,0.804,0.68
+75,Iran,0.799,0.26
+76,Saint Vincent and the Grenadines,0.798,0.17
+76,Thailand,0.798,0.65
+78,China,0.797,1.02
+79,Peru,0.794,0.42
+80,Grenada,0.791,0.15
+81,Azerbaijan,0.789,0.30
+81,Mexico,0.789,0.37
+83,Colombia,0.788,0.29
+84,Brazil,0.786,0.43
+84,Palau,0.786,0.23
+86,Moldova,0.785,0.53
+87,Ukraine,0.779,-0.35
+88,Ecuador,0.777,0.32
+89,Dominican Republic,0.776,0.67
+89,Guyana,0.776,1.11
+89,Sri Lanka,0.776,0.50
+92,Tonga,0.769,0.35
+93,Maldives,0.766,0.81
+93,Vietnam,0.766,0.60
+95,Turkmenistan,0.764,0.52
+96,Algeria,0.763,0.27
+97,Cuba,0.762,-0.16
+98,Dominica,0.761,0.06
+99,Paraguay,0.756,0.36
+100,Egypt,0.754,0.73
+100,Jordan,0.754,0.10
+102,Lebanon,0.752,-0.29
+103,Saint Lucia,0.748,-0.07
+104,Mongolia,0.747,0.48
+105,Tunisia,0.746,0.22
+106,South Africa,0.741,0.50
+107,Uzbekistan,0.740,0.62
+108,Bolivia,0.733,0.45
+108,Gabon,0.733,0.46
+108,Marshall Islands,0.733,NA 
+111,Botswana,0.731,0.69
+111,Fiji,0.731,0.35
+113,Indonesia,0.728,0.56
+114,Suriname,0.722,-0.07
+115,Belize,0.721,-0.23
+115,Libya,0.721,-0.31
+117,Jamaica,0.720,-0.06
+117,Kyrgyzstan,0.720,0.49
+117,Philippines,0.720,0.45
+120,Morocco,0.710,1.21
+121,Venezuela,0.709,-0.68
+122,Samoa,0.708,-0.02
+123,Nicaragua,0.706,0.76
+124,Nauru,0.703,1.84
+125,Bhutan,0.698,1.32
+126,Eswatini,0.695,1.70
+126,Iraq,0.695,0.57
+128,Tajikistan,0.691,0.61
+129,Tuvalu,0.689,0.39
+130,Bangladesh,0.685,1.54
+130,India,0.685,0.99
+132,El Salvador,0.678,0.21
+133,Equatorial Guinea,0.674,0.54
+133,Palestine,0.674,0.33
+135,Cape Verde,0.668,0.15
+136,Namibia,0.665,0.36
+137,Guatemala,0.662,0.21
+138,Congo,0.649,0.17
+139,Honduras,0.645,0.38
+140,Kiribati,0.644,0.61
+141,São Tomé and Príncipe,0.637,0.86
+142,Timor-Leste,0.634,-1.01
+143,Ghana,0.628,0.44
+143,Kenya,0.628,0.82
+145,Nepal,0.622,0.85
+146,Vanuatu,0.621,0.50
+147,Laos,0.617,0.90
+148,Angola,0.616,1.14
+149,Micronesia,0.615,-0.13
+150,Myanmar,0.609,1.54
+151,Cambodia,0.606,0.85
+152,Comoros,0.603,0.94
+153,Zimbabwe,0.598,1.12
+154,Zambia,0.595,0.63
+155,Cameroon,0.588,1.10
+156,Solomon Islands,0.584,0.13
+157,Ivory Coast,0.582,1.07
+157,Uganda,0.582,0.80
+159,Rwanda,0.578,1.02
+160,Papua New Guinea,0.576,1.12
+161,Togo,0.571,1.29
+162,Syria,0.564,-1.42
+163,Mauritania,0.563,0.51
+164,Nigeria,0.560,0.97
+165,Tanzania,0.555,0.64
+166,Haiti,0.554,1.74
+167,Lesotho,0.550,0.86
+168,Pakistan,0.544,0.71
+169,Senegal,0.530,0.80
+170,Gambia,0.524,0.82
+171,DR Congo,0.522,1.06
+172,Malawi,0.517,0.81
+173,Benin,0.515,0.39
+174,Guinea-Bissau,0.514,0.76
+175,Djibouti,0.513,1.67
+176,Sudan,0.511,0.45
+177,Liberia,0.510,0.48
+178,Eritrea,0.503,0.62
+179,Guinea,0.500,1.06
+180,Ethiopia,0.497,1.55
+181,Afghanistan,0.496,0.24
+182,Mozambique,0.493,1.04
+183,Madagascar,0.487,-0.02
+184,Yemen,0.470,-1.30
+185,Sierra Leone,0.467,0.80
+186,Burkina Faso,0.459,1.37
+187,Burundi,0.439,0.32
+188,Mali,0.419,0.08
+188,Niger,0.419,1.34
+190,Chad,0.416,0.66
+191,Central African Republic,0.414,0.58
+192,Somalia,0.404,NA 
+193,South Sudan,0.388,-0.61%
