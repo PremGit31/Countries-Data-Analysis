@@ -128,12 +128,10 @@ def main():
 
         with sb_tab2:
             st.markdown("""
-            **New Features:**
-            1. **Clean Plots:** Axis labels hidden; use hover to see country names.
-            2. **Filtering:** Include AND Exclude specific countries.
-            3. **Multi-Analysis:** Select multiple columns and countries simultaneously.
-            4. **PCA:** Rename components and view specific scores.
-            5. **K-Means:** Elbow method and Silhouette scores provided.
+            **How to use this app:**
+            1. **EDA Tab:** Analyze raw data. Select specific files or the merged dataset. Compare countries and create visualizations (Scatter, Bar, Line, Heatmap).
+            2. **PCA Tab:** Reduce dimensionality. Choose columns, set the number of components, and visualize how countries group in the abstract space.
+            3. **K-Means Tab:** Cluster countries based on similarities. You can cluster on raw data or PCA results.
             """)
 
     # ==========================================
