@@ -2,6 +2,8 @@
 
 An end-to-end Data Science project exploring the complex relationships between a nation's wealth (GDP), development (HDI), and societal well-being (Life Expectancy & Suicide Rates).
 
+Check out the file here: https://colab.research.google.com/drive/1Vp_8KeHI_VJCtO1WXnLh9yQjvUNCSTci?usp=sharing
+
 ## 🚀 Overview
 Does a country's wealth strictly determine its health? This project investigates socio-economic indicators across 150+ countries. Using Exploratory Data Analysis (EDA) and Unsupervised Machine Learning, I identified hidden patterns that challenge common assumptions about national prosperity.
 
